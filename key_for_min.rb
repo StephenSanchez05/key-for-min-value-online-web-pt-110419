@@ -9,3 +9,4 @@ name_hash.collect do |key, value|
   end
   define
 end
+end
