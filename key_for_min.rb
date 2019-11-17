@@ -16,3 +16,4 @@ name_hash.collect do |name, value|
 end
 end
 end
+end
